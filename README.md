@@ -6,10 +6,10 @@ Objetivos da aula
 
 2. clonar um repositorio remoto para o nosso computador local [x]
 
-3. fazer alteracoes >> adicionar / commitar / enviar arquivos []
+3. fazer alteracoes >> adicionar / commitar / enviar arquivos [x]
 
-4. criar uma nova branch []
+4. criar uma nova branch [x]
 
-5. realizar um pull request e merge []
+5. realizar um pull request e merge [x]
 
 6. criar nosso primeiro fork []
